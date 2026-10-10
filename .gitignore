@@ -1,0 +1,14 @@
+# Saved graph tensors (large, regenerable)
+graphs_scaled.pt
+*.pt
+
+# Kaggle data and credentials
+*.csv
+kaggle.json
+.env
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
